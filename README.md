@@ -4,7 +4,7 @@ This is a Clone of Reebok India Website
 ### Deployment
 | Environment | Link |
 |-------------|------|
-| GitHub Pages | [GitHub Pages](https://github.com/Tejasp171/Reebok-clone-website) |
+| GitHub Pages | [GitHub Pages](https://tejasp171.github.io/Reebok-Website-clone/) |
 
 ### Technology Stack
 #### Languages:
